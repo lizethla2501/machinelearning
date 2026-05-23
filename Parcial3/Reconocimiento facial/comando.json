@@ -1,0 +1,31 @@
+{
+    "abre": {
+        "calculadora": "calc.exe",
+        "bloc de notas": "notepad.exe",
+        "paint": "mspaint.exe",
+        "word": "C:\\Program Files\\Microsoft Office\\root\\Office16\\WINWORD.EXE",
+        "excel": "C:\\Program Files\\Microsoft Office\\root\\Office16\\EXCEL.EXE",
+        "chrome": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+    },
+    "chistes": {
+        "cuenta un chiste": [
+            "¿Por qué la computadora fue al doctor? Porque tenía un virus.",
+            "¿Qué hace una abeja en el gimnasio? Zum-ba.",
+            "¿Por qué los programadores confunden Halloween y Navidad? Porque OCT 31 = DEC 25."
+        ]
+    },
+    "respuestas": {
+        "hola": "Hola bebe, ¿en qué te ayudo?",
+        "como estas": "Estoy muy bien",
+        "adios": "Hasta luego"
+    },
+    "wikipedia": {
+        "wikipedia": "buscar informacion"
+    },
+    "hora": {
+        "hora": "decir hora actual"
+    },
+    "fecha": {
+        "fecha": "decir fecha actual"
+    }
+}
